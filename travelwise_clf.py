@@ -10,6 +10,7 @@ from langchain.chat_models import AzureChatOpenAI
 from langchain.vectorstores import Qdrant
 
 def write_token_usage_to_csv(response):
+    '''gets an llm response and store the number of tokens used into a csv file'''
     token_usage = response.response_metadata['token_usage']
         # tocken_usage = {'completion_tokens': <output tokens>,
                         #  'prompt_tokens': <input tokens>,
