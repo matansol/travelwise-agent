@@ -16,7 +16,7 @@ from src.env_variables import get_qdrant_credentials
 
 warnings.simplefilter("ignore")
 
-os.environ["AVIATION_API_KEY"] = "bbee0cc1bd4554ad72ee68d6e4ee30f8"
+# os.environ["AVIATION_API_KEY"] = "d352a208b9ae54a2bad400ed3b212d2c"
 
 # Initialize the Qdrant database client
 qdrant_url, qdrant_api_key = get_qdrant_credentials()
@@ -81,11 +81,11 @@ def create_collection_if_not_exists(collection_name: str, vector_dim: int = 5):
 def insert_data_into_qdrant(collection_name: str, records: list):
     points = []
     for record in records:
-        print(f"record:{record}")
+        record_vector = record["vector"].tolist()
         # Create a point where the vector and payload are set.
         point = PointStruct(
             id=record["id"],
-            vector=record["vector"],
+            vector=record_vector,
             payload={key: value for key, value in record.items() if key not in ["id", "vector"]},
         )
         points.append(point)
@@ -107,11 +107,9 @@ def create_and_load_collections():
     create_collection_if_not_exists("hotels", VECTOR_DIM)
     create_collection_if_not_exists("activities", VECTOR_DIM)
 
-    # TODO: Fix flights data
     hotels, activities, flights = create_data_lists(embedding_model)
 
     # Insert the synthetic data into their respective Qdrant collections.
-    # TODO: Add flight at the end with the API actual data
     insert_data_into_qdrant("flights", flights)
     insert_data_into_qdrant("hotels", hotels)
     insert_data_into_qdrant("activities", activities)
@@ -134,7 +132,7 @@ def check_collections():
     print(f"Available collections: {collections.collections}")
     # Fetch and print an example from each collection
     for collection in collections.collections:
-        points = qdrant_client.scroll(collection_name=collection.name, limit=1)
+        points = qdrant_client.scroll(collection_name=collection.name, limit=1, with_vectors=True)
         print(f"Example from collection '{collection.name}': {points}")
 
     collection_info = qdrant_client.get_collection(collection_name="flights")
@@ -163,6 +161,6 @@ def check_vector_db():
 
 if __name__ == "__main__":
     # delete_all_collections()
-    create_and_load_collections()
+    # create_and_load_collections()
     # check_collections()
-    # check_vector_db()
+    check_vector_db()

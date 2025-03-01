@@ -1,0 +1,98 @@
+Here are three trip options tailored to the provided preferences and available data:
+
+---
+
+### **Option 1: San Jose Adventure**
+**Flights**  
+- **From:** Austin (AUS) → **To:** San Jose (SJC)  
+- **Airline:** SkyHigh  
+- **Seat Info:** First Class  
+- **Price Per Person:** $1,487.04  
+- **Total for 5 People:** $7,435.20  
+
+**Accommodation**  
+- **Hotel:** HotelComfort (San Jose)  
+- **Room Info:** 3 Double Rooms  
+- **Rating:** 3.3  
+- **Room Size:** 74.87 m²  
+- **Price Per Room (Per Night):** $188.50  
+- **Total for 10 Nights:** $5,655.00  
+
+**Activities**  
+1. **Hiking Adventure**  
+   - **Company:** CityTours  
+   - **Rating:** 3.7  
+   - **Price Per Person:** $55.86  
+   - **Total for 5 People:** $279.30  
+
+2. **Other Activities:**  
+   - Explore San Jose’s local culture and food at the San Pedro Square Market and Japantown.  
+   - Optional kayaking and zip-lining tours can be arranged locally.  
+
+**Estimated Total:** **$13,369.50**  
+*(Flight + Hotel + Activities)*  
+
+---
+
+### **Option 2: Portland Outdoor Escape**
+**Flights**  
+- No direct flights available in the current data (we can arrange separately if Portland is preferred).  
+
+**Accommodation**  
+- **Hotel:** HotelComfort (Portland)  
+- **Room Info:** 2 Suites and 1 Double Room  
+- **Rating:** 4.9  
+- **Room Size:** 175.58 m² (Suites)  
+- **Price Per Room (Per Night):** $263.58 (Suites) + $188.50 (Double)  
+- **Total for 10 Nights:** $7,186.40  
+
+**Activities**  
+1. **Kayaking and Rock Climbing**  
+   - Portland offers excellent outdoor activities, including kayaking on the Willamette River and rock climbing at Smith Rock State Park.  
+   - Costs for activities vary, but estimated at $150 per person for a full day.  
+
+2. **Cultural Exploration**  
+   - Visit the Portland Saturday Market and enjoy local cuisine at food cart pods.  
+
+**Estimated Total for Hotel + Activities:** **$8,936.40**  
+*(Excludes airfare due to unavailable options in the data.)*  
+
+---
+
+### **Option 3: Seattle Adventure and Culture**  
+**Flights**  
+- **From:** Austin (AUS) → **To:** Seattle (SEA)  
+- **Airline:** SkyHigh  
+- **Seat Info:** Economy  
+- **Price Per Person:** $1,931.32  
+- **Total for 5 People:** $9,656.60  
+
+**Accommodation**  
+- **Hotel:** HotelComfort (Seattle)  
+- **Room Info:** 3 Double Rooms  
+- **Rating:** 3.4  
+- **Room Size:** 196.53 m²  
+- **Price Per Room (Per Night):** $420.60  
+- **Total for 10 Nights:** $12,618.00  
+
+**Activities**  
+1. **Kayaking Adventure**  
+   - Rent kayaks at Lake Union or take a guided tour of Puget Sound. Estimated cost: $75 per person.  
+
+2. **Rock Climbing at Vertical World**  
+   - A premier indoor climbing gym in Seattle. Estimated cost: $40 per person.  
+
+3. **Cultural Exploration**  
+   - Visit Pike Place Market, the Space Needle, and Chihuly Garden and Glass.  
+
+**Estimated Total:** **$22,274.60**  
+*(Flight + Hotel + Activities)*  
+
+---
+
+### Summary of Options:  
+1. **San Jose Adventure:** Best for a well-rounded, cost-effective adventure with cultural exploration.  
+2. **Portland Outdoor Escape:** Ideal for outdoor enthusiasts seeking kayaking, rock climbing, and food adventures.  
+3. **Seattle Adventure and Culture:** A premium cultural and adventure-focused trip with iconic attractions.  
+
+Let me know if you'd like adjustments or more details!
