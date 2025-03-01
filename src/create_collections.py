@@ -16,8 +16,6 @@ from src.env_variables import get_qdrant_credentials
 
 warnings.simplefilter("ignore")
 
-# os.environ["AVIATION_API_KEY"] = "d352a208b9ae54a2bad400ed3b212d2c"
-
 # Initialize the Qdrant database client
 qdrant_url, qdrant_api_key = get_qdrant_credentials()
 qdrant_client = QdrantClient(url=qdrant_url, api_key=qdrant_api_key)
@@ -26,6 +24,8 @@ qdrant_client = QdrantClient(url=qdrant_url, api_key=qdrant_api_key)
 def clean_collection(collection_name, vector_dim=384):
     """
     Clean the specified Qdrant collection by deleting all its vectors.
+    :param collection_name: The name of the collection to clean.
+    :param vector_dim: The dimensionality of the vectors in the collection.
     """
     qdrant_client.delete_collection(collection_name=collection_name)
     qdrant_client.create_collection(
@@ -38,6 +38,7 @@ def clean_collection(collection_name, vector_dim=384):
 def delete_collection(collection_name):
     """
     Delete the specified Qdrant collection.
+    :param collection_name: The name of the collection to delete.
     """
     qdrant_client.delete_collection(collection_name=collection_name)
     print(f"Collection '{collection_name}' has been deleted.")
@@ -58,6 +59,8 @@ def delete_all_collections():
 def create_collection_if_not_exists(collection_name: str, vector_dim: int = 5):
     """
     Create a collection in Qdrant if it does not already exist.
+    :param collection_name: The name of the collection to create.
+    :param vector_dim: The dimensionality of the vectors in the collection.
     """
     try:
         # Try to retrieve the collection information.
@@ -77,8 +80,10 @@ def create_collection_if_not_exists(collection_name: str, vector_dim: int = 5):
     print(f"Collection '{collection_name}' created.")
 
 
-# Function to insert data into a specified Qdrant collection.
 def insert_data_into_qdrant(collection_name: str, records: list):
+    """ Insert the provided records into the specified Qdrant collection.
+        :param collection_name: The name of the collection to insert the records into.
+        :param records: The list of records to insert into the collection."""
     points = []
     for record in records:
         record_vector = record["vector"].tolist()
@@ -98,6 +103,7 @@ def insert_data_into_qdrant(collection_name: str, records: list):
 
 
 def create_and_load_collections():
+    """ Create the collections in Qdrant and load the synthetic data into them. """
     # Intialize embeddings model
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")  # ('multi-qa-mpnet-base-dot-v1') - stronget model
     VECTOR_DIM = embedding_model.get_sentence_embedding_dimension()
@@ -117,19 +123,19 @@ def create_and_load_collections():
     # shows the collections
     collections = qdrant_client.get_collections()
     print(f"Available collections: {collections.collections}")
+
     # Fetch and print an example from each collection
     for collection in collections.collections:
         points = qdrant_client.scroll(collection_name=collection.name, limit=1)
         print(f"Example from collection '{collection.name}': {points}")
 
-    # collection_info = qdrant_client.get_collection(collection_name="flights")
-    # print(collection_info)
 
 
 def check_collections():
-
+    """ Check the collections in Qdrant and print an example from each collection. """
     collections = qdrant_client.get_collections()
     print(f"Available collections: {collections.collections}")
+
     # Fetch and print an example from each collection
     for collection in collections.collections:
         points = qdrant_client.scroll(collection_name=collection.name, limit=1, with_vectors=True)
@@ -140,15 +146,15 @@ def check_collections():
 
 
 def check_vector_db():
+    """ Check the vector database by querying it with a sample text query. """
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-    # Check the vector database
     query_text = "luxury hotel in Sydney"
     query_vector = embedding_model.encode(query_text)
 
     results = qdrant_client.search(
-        collection_name="flights",  # target collection
-        query_vector=query_vector,  # your query vector
-        limit=5,  # number of nearest neighbors to return
+        collection_name="flights",
+        query_vector=query_vector,
+        limit=5,
     )
 
     # Process and print the results
