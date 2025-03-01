@@ -3,7 +3,7 @@
 TravelWise Agent is an AI-driven assistant designed to support travel agents in managing their tasks efficiently. 
 This project leverages advanced language models and data processing tools to streamline operations within the travel industry.
 
-Please note that currently, the agent can plan travels from and to the following cities: New York, Los Angeles, Chicago, Houston, Phoenix.
+Please note that currently, the agent can plan travels from and to the **following cities: New York, Los Angeles, Chicago, Houston, Phoenix.**
 Additionally, in order to use the data collector file to collect the flights' data, AVIATION's API key is required. 
 
 ## Project Overview
