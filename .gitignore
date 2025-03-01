@@ -1,3 +1,5 @@
 .env
 פרזנטציה בנושאים נבחרים בהנדסת נתונים.pptx
 env_variables.py
+archive/
+__pycache__/
