@@ -239,14 +239,3 @@ def create_data_lists(embedding_model):
         activities = generate_activity_data(10, city, embedding_model)
         flights = get_flights_by_params(cities, embedding_model, from_city=city)
     return hotels, activities, flights
-
-
-def main():
-    os.environ["AVIATION_API_KEY"] = '995471f8fa6ffaf25e24a98c130d851f'
-    # Load the SentenceTransformer model
-    embedding_model = SentenceTransformer('distilbert-base-nli-mean-tokens')
-    print(create_data_lists(embedding_model))
-
-
-if __name__ == "__main__":
-    main()
