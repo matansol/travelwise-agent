@@ -48,7 +48,6 @@ To set up the TravelWise Agent environment, follow these steps:
 - **Data Collection**: Run `data_collector.py` to fetch and process travel data.
   Important note: The data returned by this file is primarily synthetic and is intended to demonstrate the proof of concept.
 - **Main Application**: Execute `main.py` to start the TravelWise Agent interface.
-- **Notebooks**: Explore `agents.ipynb`.
 
 ## Contributors
 
