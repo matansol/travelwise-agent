@@ -5,7 +5,7 @@ This project leverages advanced language models and data processing tools to str
 
 Please note that currently, **the agent can plan travels from and to the following cities:** 
 
-New York City, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose, Austin, Jacksonville, Fort Worth, Columbus, Charlotte, San Francisco, Indianapolis, Seattle, Denver, Washington, Boston, El Paso, Nashville, Detroit, Oklahoma City, Portland, Las Vegas, Memphis, Louisville, Baltimore, Milwaukee, Albuquerque, Tucson, Fresno, Sacramento, Mesa, Kansas City, Atlanta, Omaha, Colorado Springs, Raleigh, Long Beach, Virginia Beach, Miami, Oakland, Minneapolis, Tulsa, Bakersfield, Wichita, Arlington.
+New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia.
 
 ## Project Overview
 
