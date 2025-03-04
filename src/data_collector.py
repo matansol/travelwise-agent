@@ -59,7 +59,9 @@ def process_flight_data(flights, flight_seats_options, type, embedding_model):
             f"company: {flight_info['company_name']}, seat: {flight_info['seat_info']}, type: {flight_info['type']}, "
             f"commission: ${flight_info['agent_commission']}"
         )
-        results.append(embedding_model.encode(flight_str))
+        flight_vector = embedding_model.encode(flight_str)
+        flight_info["vector"] = flight_vector
+        flights.append(flight_info)
     return results
 
 
@@ -118,24 +120,24 @@ def city_to_iata(city_name):
     return city_iata_map.get(city_name, None)
 
 
-# def get_flights_by_params(from_city, cities, embedding_model):
-#     """
-#     Fetches incoming flights based on user preferences.
-#     :param from_city: IATA code of the departure city.
-#     :param cities: List of destination cities.
-#     :param embedding_model: SentenceTransformer model for encoding flight descriptions.
-#     :return: List of incoming flights.
-#     """
-#     incoming_flights = []
-#     return_flights = []
-#     for city in cities:
-#         incoming_flights += get_flights(
-#             city_to_iata(from_city), embedding_model, "incoming flight", to_city=city_to_iata(city), n_options=1
-#         )
-#         return_flights += get_flights(
-#             city_to_iata(city), embedding_model, "return flight", to_city=city_to_iata(from_city), n_options=1
-#         )
-#     return incoming_flights + return_flights
+def get_flights_by_params(from_city, cities, embedding_model):
+    """
+    Fetches incoming flights based on user preferences.
+    :param from_city: IATA code of the departure city.
+    :param cities: List of destination cities.
+    :param embedding_model: SentenceTransformer model for encoding flight descriptions.
+    :return: List of incoming flights.
+    """
+    incoming_flights = []
+    return_flights = []
+    for city in cities:
+        incoming_flights += get_flights(
+            city_to_iata(from_city), embedding_model, "incoming flight", to_city=city_to_iata(city), n_options=1
+        )
+        return_flights += get_flights(
+            city_to_iata(city), embedding_model, "return flight", to_city=city_to_iata(from_city), n_options=1
+        )
+    return incoming_flights + return_flights
 
 
 def generate_flight_data(from_city, to_city, num_records, embedding_model):
@@ -260,56 +262,12 @@ def create_data_lists(embedding_model):
     :return: List of hotel data.
     """
     cities = [
-        "New York City",
+        "New York",
         "Los Angeles",
         "Chicago",
         "Houston",
         "Phoenix",
-        "Philadelphia",
-        "San Antonio",
-        "San Diego",
-        "Dallas",
-        "San Jose",
-        "Austin",
-        "Jacksonville",
-        "Fort Worth",
-        "Columbus",
-        "Charlotte",
-        "San Francisco",
-        "Indianapolis",
-        "Seattle",
-        "Denver",
-        "Washington",
-        "Boston",
-        "El Paso",
-        "Nashville",
-        "Detroit",
-        "Oklahoma City",
-        "Portland",
-        "Las Vegas",
-        "Memphis",
-        "Louisville",
-        "Baltimore",
-        "Milwaukee",
-        "Albuquerque",
-        "Tucson",
-        "Fresno",
-        "Sacramento",
-        "Mesa",
-        "Kansas City",
-        "Atlanta",
-        "Omaha",
-        "Colorado Springs",
-        "Raleigh",
-        "Long Beach",
-        "Virginia Beach",
-        "Miami",
-        "Oakland",
-        "Minneapolis",
-        "Tulsa",
-        "Bakersfield",
-        "Wichita",
-        "Arlington",
+        "Philadelphia"
     ]
     hotels = []
     activities = []
@@ -317,11 +275,5 @@ def create_data_lists(embedding_model):
     for city in cities:
         hotels += generate_hotel_data(10, city, embedding_model)
         activities += generate_activity_data(10, city, embedding_model)
-
-        # for actual flights data
-        # flights = get_flights_by_params(city, cities, embedding_model)
-
-        # for synthetic flights data
-        for to_city in [another_city for another_city in cities if city != another_city]:
-            flights += generate_flight_data(city, to_city, 3, embedding_model)
+        flights += get_flights_by_params(city, cities, embedding_model)
     return hotels, activities, flights

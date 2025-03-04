@@ -105,7 +105,7 @@ def get_trip_options(user_input: str) -> str:
 
     # Use LLM to assemble full trip options
     system_prompt = SystemMessage(
-        content="You are a professional travel agent. Based on the user's trip request and the available flights, hotels, and activities, build the client 3 options for a trip.")
+        content="You are a professional travel agent. Based on the user's trip request and the available flights, hotels, and activities, build the client 3 options for a trip. Please include both the incoming and return flights (they can be from different airlines and locations), the hotels, and the activities. Make sure to include the total price for each option.",)
     formatted_prompt = prompt_template.format(
         input=f"customer_profile: {customer_profile}, options: {all_options}",)
     messages = [system_prompt, HumanMessage(content=formatted_prompt)]
