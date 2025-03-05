@@ -168,4 +168,5 @@ if __name__ == "__main__":
     # delete_all_collections()
     # create_and_load_collections()
     # check_collections()
-    check_vector_db()
+    # check_vector_db()
+    pass
