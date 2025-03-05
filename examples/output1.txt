@@ -1,90 +1,76 @@
-Based on the provided details, I’ve created three customized trip options for a family of 4, focusing on outdoor activities, water sports, relaxation, and educational experiences. Each option balances flights, accommodations, and activities to create a memorable week-long vacation.
+### Trip Option 1: Philadelphia Adventure with Family-Friendly Highlights
+**Overview:** A week-long trip to Philadelphia, with a mix of outdoor activities, historical exploration, and downtime by the pool. Perfect for families who love hiking and educational experiences.
+
+#### Flights:
+- **Departure:** FlyFast from Houston (IAH) to Philadelphia (PHL) - Economy Class, $1681.44  
+- **Return:** FlyFast from Philadelphia (PHL) to Houston (IAH) - Economy Class, $393.64  
+- **Total for Flights (4 people):** $8,302.16  
+
+#### Hotel:
+- **Stay:** HotelComfort, Philadelphia - Penthouse Suite (91.73 m²), 4.4-star rating, family-friendly amenities, $256.05 per night.  
+- **Total for 7 nights:** $1,792.35  
+
+#### Activities:
+1. **Hiking Adventure** with ThrillSeekers in Philadelphia - $152.35 per person x 4 = $609.40  
+2. **Historical Tour of Independence Hall and Liberty Bell (self-booked, free entry but optional guided tours ~$40 for family)**  
+3. **Visit to Franklin Institute (interactive science and technology museum)** - ~$70 for family tickets.  
+4. **Family downtime at the hotel pool** (complimentary).  
+
+#### Total Cost for Trip Option 1: **$10,773.91**  
+*(Flights + Hotel + Activities)*  
 
 ---
 
-### **Option 1: Scenic Adventure in San Jose, California**
-**Highlights:** Outdoor activities, water sports, and family-friendly attractions in a vibrant city surrounded by nature.
+### Trip Option 2: Houston Staycation with Outdoor Fun
+**Overview:** A relaxed family-friendly week in Houston, focusing on hiking adventures and downtime by a nice pool.
 
-- **Flights**:  
-  - **From Austin (AUS) to San Jose (SJC)**  
-    - Airline: SkyHigh  
-    - Seat: First Class  
-    - Price: $1,487.04 per person  
+#### Flights:
+- Local staycation, no flights needed.
 
-- **Accommodation**:  
-  - Hotel: **HotelComfort San Jose**  
-    - Room Type: Penthouse (139.02 m², spacious for a family)  
-    - Hotel Rating: 4.3/5  
-    - Price: $304.24 per night  
+#### Hotel:
+- **Stay:** HotelComfort, Houston - Penthouse Suite (158.47 m²), 3.5-star rating, $259.66 per night.  
+- **Total for 7 nights:** $1,817.62  
 
-- **Activities**:  
-  - **Hiking Adventure**: Explore local trails with a guided tour (Company: FunTimes, $294.32).  
-  - **Water Sports**: Paddleboarding and kayaking at nearby lakes.  
-  - **Family-Friendly Attractions**: Visit Happy Hollow Park & Zoo.  
-  - **Educational Stop**: The Tech Interactive Museum for kids.  
+#### Activities:
+1. **Hiking Adventure** with CityTours in Houston - $208.57 per person x 4 = $834.28  
+2. **Day at Space Center Houston** (educational activities for kids) - ~$100 for family tickets.  
+3. **Relaxing downtime at the hotel pool** (complimentary).  
 
-**Estimated Total Cost for 4 People**: ~$8,600 (flights, hotel, and activities).  
+#### Total Cost for Trip Option 2: **$2,751.90**  
+*(Hotel + Activities)*  
 
 ---
 
-### **Option 2: Relaxation and Education in Baltimore, Maryland**
-**Highlights:** A mix of relaxing poolside downtime and educational excursions for the family.
+### Trip Option 3: Philadelphia & New York Combo
+**Overview:** Split time between Philadelphia and New York for a dynamic mix of outdoor activities, family-friendly attractions, and sightseeing.
 
-- **Flights**:  
-  - **From Austin (AUS) to Baltimore (BWI)**  
-    - Airline: FlyFast  
-    - Seat: Business Class  
-    - Price: $1,767.82 per person  
+#### Flights:
+- **Departure:** SkyHigh from Houston (IAH) to Philadelphia (PHL) - Economy Class, $1453.14  
+- **Return:** SkyHigh from Philadelphia (PHL) to Houston (IAH) - First Class, $210.30  
+- **Total for Flights (4 people):** $6,653.76  
 
-- **Accommodation**:  
-  - Hotel: **HotelComfort Baltimore**  
-    - Room Type: Single (131.22 m², 2 rooms for the family)  
-    - Hotel Rating: 4.3/5  
-    - Price: $232.37 per room, per night  
+#### Hotels:
+- **Philadelphia (4 nights):** HotelComfort, Philadelphia - Deluxe Room (152.17 m²), 4.3-star rating, $228.58 per night.  
+  - **Total for 4 nights:** $914.32  
+- **New York (3 nights):** HotelComfort, New York - Single Room (171.41 m²), 4.9-star rating, $473.68 per night.  
+  - **Total for 3 nights:** $1,421.04  
 
-- **Activities**:  
-  - **Educational Visit**: National Aquarium for marine life exploration.  
-  - **Family Fun**: Port Discovery Children’s Museum.  
-  - **Relaxation**: Enjoy downtime at the hotel’s pool.  
-  - **Outdoor Activities**: Guided hiking tours in nearby state parks.  
+#### Activities:
+1. **Philadelphia Hiking Adventure** with ThrillSeekers - $152.35 per person x 4 = $609.40  
+2. **Visit to Central Park (New York)** - Free entry, optional activities like bike rental ($40 for family).  
+3. **American Museum of Natural History (New York)** - ~$100 for family tickets.  
+4. **Downtime at hotel pools and family strolls through iconic attractions** (complimentary).  
 
-**Estimated Total Cost for 4 People**: ~$9,200 (flights, hotel, and activities).  
-
----
-
-### **Option 3: Outdoor Adventures in Seattle, Washington**
-**Highlights:** Perfect for a family that loves hiking, water sports, and stunning scenery.
-
-- **Flights**:  
-  - **From Austin (AUS) to Seattle (SEA)**  
-    - Airline: SkyHigh  
-    - Seat: Economy  
-    - Price: $1,931.32 per person  
-
-- **Accommodation**:  
-  - Hotel: **HotelComfort Seattle**  
-    - Room Type: Double (196.53 m², 2 rooms)  
-    - Hotel Rating: 3.4/5  
-    - Price: $420.60 per room, per night  
-
-- **Activities**:  
-  - **Hiking Adventure**: Explore Mount Rainier National Park trails.  
-  - **Water Sports**: Family-friendly kayaking on Lake Union.  
-  - **Educational Stop**: Museum of Flight for an immersive experience.  
-  - **Relaxation**: Unwind at the hotel or enjoy Seattle’s waterfront.  
-
-**Estimated Total Cost for 4 People**: ~$11,400 (flights, hotel, and activities).  
+#### Total Cost for Trip Option 3: **$9,698.52**  
+*(Flights + Hotels + Activities)*  
 
 ---
 
-### **Summary Table**
+### Summary Table:
+| Trip Option              | Total Price     | Key Highlights                                                              |
+|--------------------------|-----------------|-----------------------------------------------------------------------------|
+| **Option 1: Philadelphia Adventure** | **$10,773.91** | Hiking, historical attractions, science museum, family pool time.          |
+| **Option 2: Houston Staycation**      | **$2,751.90**  | Local hiking, Space Center visit, relaxing at a spacious penthouse suite.   |
+| **Option 3: Philly & NYC Combo**      | **$9,698.52**  | Split city adventure with hiking, museums, and iconic attractions.          |
 
-| Option          | Destination  | Flight Price (per person) | Hotel Price (per night) | Key Activities                                  | Total Est. Budget |
-|------------------|--------------|---------------------------|-------------------------|------------------------------------------------|-------------------|
-| **Option 1**     | San Jose     | $1,487.04                | $304.24                | Hiking, water sports, zoo, museum             | ~$8,600          |
-| **Option 2**     | Baltimore    | $1,767.82                | $232.37 (x2 rooms)     | Aquarium, museum, hiking, pool                | ~$9,200          |
-| **Option 3**     | Seattle      | $1,931.32                | $420.60 (x2 rooms)     | Hiking, kayaking, Museum of Flight, scenery   | ~$11,400         |
-
----
-
-Let me know which option suits your family best or if you’d like adjustments!
+Let me know which option fits your preferences best!

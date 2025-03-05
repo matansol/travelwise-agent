@@ -10,6 +10,7 @@ from langchain_community.chat_models import AzureChatOpenAI
 from langchain_core.messages import AIMessage
 from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
+
 from src.clf_travelwise import write_token_usage_to_csv
 from src.env_variables import get_qdrant_credentials
 
@@ -77,9 +78,9 @@ def parse_user_input(user_input: str) -> AIMessage:
 
 
 def query_qdrant(collection_name: str, customer_profile: str) -> list[str]:
-    """ Query the Qdrant database to find options in the specified collection matching the customer profile.
-        :param collection_name: The name of the collection to query (e.g., "flights", "hotels", "activities").
-        :param customer_profile: The customer profile JSON object containing the key features.
+    """Query the Qdrant database to find options in the specified collection matching the customer profile.
+    :param collection_name: The name of the collection to query (e.g., "flights", "hotels", "activities").
+    :param customer_profile: The customer profile JSON object containing the key features.
     """
 
     query = f"Find options in {collection_name} matching this profile: {customer_profile}"
@@ -105,9 +106,11 @@ def get_trip_options(user_input: str) -> str:
 
     # Use LLM to assemble full trip options
     system_prompt = SystemMessage(
-        content="You are a professional travel agent. Based on the user's trip request and the available flights, hotels, and activities, build the client 3 options for a trip. Please include both the incoming and return flights (they can be from different airlines and locations), the hotels, and the activities. Make sure to include the total price for each option.",)
+        content="You are a professional travel agent. Based on the user's trip request and the available flights, hotels, and activities, build the client 3 options for a trip. Please include both the incoming and return flights (they can be from different airlines and locations), the hotels, and the activities. Make sure to include the total price for each option.",
+    )
     formatted_prompt = prompt_template.format(
-        input=f"customer_profile: {customer_profile}, options: {all_options}",)
+        input=f"customer_profile: {customer_profile}, options: {all_options}",
+    )
     messages = [system_prompt, HumanMessage(content=formatted_prompt)]
 
     # Get the trip options from the LLM
@@ -117,7 +120,7 @@ def get_trip_options(user_input: str) -> str:
 
 
 def run_examples():
-    """ Run the pipeline for the example input files and save the trip options to the corresponding output files. """
+    """Run the pipeline for the example input files and save the trip options to the corresponding output files."""
     examples_folder = "examples"
 
     # Get all files that start with "input" and end with ".txt"
@@ -140,7 +143,7 @@ def run_examples():
 
 
 def run_pipeline():
-    """ Run the TravelWise Agent pipeline to interactively get trip options based on user input. """
+    """Run the TravelWise Agent pipeline to interactively get trip options based on user input."""
     hello_message = """\
     Welcome to the TravelWise Agent!
     

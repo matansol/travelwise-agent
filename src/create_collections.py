@@ -81,9 +81,9 @@ def create_collection_if_not_exists(collection_name: str, vector_dim: int = 5):
 
 
 def insert_data_into_qdrant(collection_name: str, records: list):
-    """ Insert the provided records into the specified Qdrant collection.
-        :param collection_name: The name of the collection to insert the records into.
-        :param records: The list of records to insert into the collection."""
+    """Insert the provided records into the specified Qdrant collection.
+    :param collection_name: The name of the collection to insert the records into.
+    :param records: The list of records to insert into the collection."""
     points = []
     for record in records:
         record_vector = record["vector"].tolist()
@@ -103,7 +103,7 @@ def insert_data_into_qdrant(collection_name: str, records: list):
 
 
 def create_and_load_collections():
-    """ Create the collections in Qdrant and load the synthetic data into them. """
+    """Create the collections in Qdrant and load the synthetic data into them."""
     # Intialize embeddings model
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")  # ('multi-qa-mpnet-base-dot-v1') - stronget model
     VECTOR_DIM = embedding_model.get_sentence_embedding_dimension()
@@ -130,9 +130,8 @@ def create_and_load_collections():
         print(f"Example from collection '{collection.name}': {points}")
 
 
-
 def check_collections():
-    """ Check the collections in Qdrant and print an example from each collection. """
+    """Check the collections in Qdrant and print an example from each collection."""
     collections = qdrant_client.get_collections()
     print(f"Available collections: {collections.collections}")
 
@@ -146,7 +145,7 @@ def check_collections():
 
 
 def check_vector_db():
-    """ Check the vector database by querying it with a sample text query. """
+    """Check the vector database by querying it with a sample text query."""
     embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
     query_text = "luxury hotel in Sydney"
     query_vector = embedding_model.encode(query_text)

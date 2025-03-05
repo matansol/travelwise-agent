@@ -134,9 +134,7 @@ def get_flights_by_params(from_city, cities, embedding_model):
         incoming_flights += get_flights(
             city_to_iata(from_city), embedding_model, "incoming flight", to_city=city_to_iata(city), n_options=1
         )
-        return_flights += get_flights(
-            city_to_iata(city), embedding_model, "return flight", to_city=city_to_iata(from_city), n_options=1
-        )
+        return_flights += get_flights(city_to_iata(city), embedding_model, "return flight", to_city=city_to_iata(from_city), n_options=1)
     return incoming_flights + return_flights
 
 
@@ -261,19 +259,15 @@ def create_data_lists(embedding_model):
     :param embedding_model: SentenceTransformer model for encoding hotel descriptions.
     :return: List of hotel data.
     """
-    cities = [
-        "New York",
-        "Los Angeles",
-        "Chicago",
-        "Houston",
-        "Phoenix",
-        "Philadelphia"
-    ]
+    cities = ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia"]
     hotels = []
     activities = []
     flights = []
     for city in cities:
         hotels += generate_hotel_data(10, city, embedding_model)
         activities += generate_activity_data(10, city, embedding_model)
-        flights += get_flights_by_params(city, cities, embedding_model)
+        # flights += get_flights_by_params(city, cities, embedding_model)
+        # for synthetic flights data
+        for to_city in [another_city for another_city in cities if city != another_city]:
+            flights += generate_flight_data(city, to_city, 3, embedding_model)
     return hotels, activities, flights

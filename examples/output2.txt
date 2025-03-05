@@ -1,99 +1,119 @@
-Here are three curated trip options based on your preferences for a romantic and intimate getaway:
+Based on the provided options, here are three trip itineraries tailored to the client's preferences for quiet, intimate experiences, beautiful views, good food, spa treatments, exploration, cooking classes, and wine tasting:
 
 ---
 
-### **Option 1: Romantic Escape to San Jose, California**
-**Why Choose This?** San Jose offers beautiful views, great food, and a mix of relaxation and activities like wine tasting and exploring.
+### **Option 1: Philadelphia Getaway**
+- **Flight to Destination:**
+  - Airline: FlyFast  
+  - From: Houston (IAH)  
+  - To: Philadelphia (PHL)  
+  - Class: Economy  
+  - Price: $1681.44  
 
-#### **Flights**
-- **From:** Austin (AUS)  
-- **To:** San Jose (SJC)  
-- **Airline:** SkyHigh  
-- **Class:** First Class  
-- **Price:** $1487.04  
-- **Airline Rating:** 3.0  
+- **Return Flight:**
+  - Airline: FlyFast  
+  - From: Philadelphia (PHL)  
+  - To: Houston (IAH)  
+  - Class: Economy  
+  - Price: $393.64  
 
-#### **Accommodation**
-- **Hotel:** HotelComfort  
-- **Room Type:** Penthouse (139.02 m²)  
-- **Rating:** 4.3  
-- **Price:** $304.24 per night  
-- **Duration:** 4 nights ($1216.96 total)
+- **Hotel:**
+  - Name: HotelComfort  
+  - Location: Philadelphia  
+  - Room Type: Penthouse (91.73 m²)  
+  - Rating: 4.4  
+  - Price per Night: $256.05  
+  - Total for 4 Nights: $1024.20  
 
-#### **Activities**
-1. **Cooking Class & Wine Tasting:** Arrange a private session at a local vineyard. (Custom quote, approx. $300 per person)  
-2. **Hiking Adventure:** Explore San Jose's scenic trails with CityTours.  
-   - **Price:** $55.86 per person  
-   - **Rating:** 3.7  
-3. **Spa Day:** Book a couples' spa treatment at a luxury spa in the city. (Custom quote, approx. $400)
+- **Activities:**
+  1. **Hiking Adventure** (Philadelphia)  
+     - Company: ThrillSeekers  
+     - Rating: 5.0  
+     - Price: $152.35  
+  2. **Cooking Class**: Arrange through a local culinary school or private chef (estimated price: $200/person, $400 total).  
+  3. **Wine Tasting & Vineyard Tour**: Visit nearby wineries (estimated price: $150/person, $300 total).  
 
-**Total Estimated Cost:** ~$3979.86 (excluding food and additional activities)
-
----
-
-### **Option 2: Intimate Getaway to Long Beach, California**
-**Why Choose This?** Long Beach combines ocean views, great food, and romantic vibes, perfect for wine tasting and spa days by the coast.
-
-#### **Flights**
-- **From:** Austin (AUS)  
-- **To:** Long Beach  
-- **Airline:** FlyFast  
-- **Class:** First Class  
-- **Price:** $1919.14  
-- **Airline Rating:** 5.0  
-
-#### **Accommodation**
-- **Hotel:** Boutique Beachfront Hotel (custom, not listed)  
-- **Room Type:** Oceanview Suite  
-- **Price:** Approx. $400 per night  
-- **Duration:** 4 nights ($1600 total)
-
-#### **Activities**
-1. **Cooking Class:** Take a private cooking class with a local chef specializing in California cuisine.  
-   - **Price:** ~$250 per person  
-2. **Wine Tasting Tour:** Enjoy a guided wine tour in the nearby Temecula Valley.  
-   - **Price:** ~$200 per person  
-3. **Spa & Relaxation:** Indulge in a couples' spa day at the hotel.  
-   - **Price:** ~$350  
-
-**Total Estimated Cost:** ~$4719.14 (excluding food and additional activities)
+- **Total Cost:**
+  - Flights: $2075.08  
+  - Hotel: $1024.20  
+  - Activities: $852.35  
+  - **Grand Total:** **$3951.63**
 
 ---
 
-### **Option 3: Serene Retreat in Portland, Oregon**
-**Why Choose This?** Portland is known for its vibrant food culture, scenic views, and indulgent spa experiences.
+### **Option 2: Phoenix Serenity Retreat**
+- **Flight to Destination:**
+  - Airline: SkyHigh  
+  - From: Houston (IAH)  
+  - To: Phoenix (PHX)  
+  - Class: Business  
+  - Price: $1584.11  
 
-#### **Flights**
-- **From:** Miami  
-- **To:** Portland (PDX)  
-- **Airline:** FlyFast  
-- **Class:** First Class  
-- **Price:** $1852.85  
-- **Airline Rating:** 3.5  
+- **Return Flight:**
+  - Airline: SkyHigh  
+  - From: Philadelphia (PHL)  
+  - To: Houston (IAH)  
+  - Class: First Class  
+  - Price: $210.30  
 
-#### **Accommodation**
-- **Hotel:** Urban Luxury Retreat  
-- **Room Type:** King Suite  
-- **Price:** Approx. $350 per night  
-- **Duration:** 4 nights ($1400 total)
+- **Hotel:**
+  - Name: HotelComfort  
+  - Location: Philadelphia  
+  - Room Type: Deluxe (152.17 m²)  
+  - Rating: 4.3  
+  - Price per Night: $228.58  
+  - Total for 5 Nights: $1142.90  
 
-#### **Activities**
-1. **Wine Tasting & Vineyard Tour:** Visit the renowned Willamette Valley for an intimate wine tasting experience.  
-   - **Price:** ~$300 per person  
-2. **Spa Treatments:** Book a luxury couples' spa session in Portland's top-rated spa.  
-   - **Price:** ~$400  
-3. **Cooking Class:** Learn to cook farm-to-table dishes with local ingredients.  
-   - **Price:** ~$275 per person  
+- **Activities:**
+  1. **Hiking Adventure** (Phoenix)  
+     - Company: ThrillSeekers  
+     - Rating: 4.2  
+     - Price: $228.77  
+  2. **Spa Treatment**: Luxury spa experience at a local resort (estimated price: $300/person, $600 total).  
+  3. **Wine Tasting**: Visit nearby wineries in Phoenix (estimated price: $120/person, $240 total).  
 
-**Total Estimated Cost:** ~$4577.85 (excluding food and additional activities)
+- **Total Cost:**
+  - Flights: $1794.41  
+  - Hotel: $1142.90  
+  - Activities: $1068.77  
+  - **Grand Total:** **$4006.08**
 
 ---
 
-### **Summary of Options**
-| **Option**                  | **Destination**         | **Total Cost (Approx.)** | **Highlights**                                       |
-|-----------------------------|-------------------------|--------------------------|-----------------------------------------------------|
-| **Option 1**                | San Jose, California    | ~$3979.86                | Penthouse stay, wine tasting, spa, and hiking.      |
-| **Option 2**                | Long Beach, California  | ~$4719.14                | Oceanview suite, wine tour, spa, and cooking class. |
-| **Option 3**                | Portland, Oregon        | ~$4577.85                | Scenic vineyards, spa, and farm-to-table cooking.   |
+### **Option 3: Houston Staycation with Local Gems**
+- **Flights:** None (save on airfare by staying local in Houston).  
 
-Let me know your preference or if you'd like to adjust any details!
+- **Hotel:**
+  - Name: HotelComfort  
+  - Location: Houston  
+  - Room Type: Penthouse (158.47 m²)  
+  - Rating: 3.5  
+  - Price per Night: $259.66  
+  - Total for 4 Nights: $1038.64  
+
+- **Activities:**
+  1. **Hiking Adventure** (Houston)  
+     - Company: CityTours  
+     - Rating: 4.2  
+     - Price: $208.57  
+  2. **Cooking Class**: Arrange with a local chef or cooking school (estimated price: $150/person, $300 total).  
+  3. **Wine Tasting**: Visit a local wine bar or tasting room (estimated price: $100/person, $200 total).  
+  4. **Spa Treatment**: Book a luxurious experience at a local spa (estimated price: $250/person, $500 total).  
+
+- **Total Cost:**
+  - Flights: $0  
+  - Hotel: $1038.64  
+  - Activities: $1208.57  
+  - **Grand Total:** **$2247.21**
+
+---
+
+### **Summary of Options:**
+1. **Philadelphia Getaway:** $3951.63  
+   - Highlights: Scenic hikes, cooking class, wine tasting, luxurious penthouse stay.  
+2. **Phoenix Serenity Retreat:** $4006.08  
+   - Highlights: Spa treatments, wine tours, hiking, spacious deluxe room.  
+3. **Houston Staycation:** $2247.21  
+   - Highlights: Budget-friendly, no flights, local experiences, and elegant penthouse stay.  
+
+Let me know which option resonates most, or if you'd like me to refine any details!
