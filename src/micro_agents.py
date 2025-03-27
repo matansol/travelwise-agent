@@ -90,6 +90,19 @@ def parse_user_input(user_input: str) -> AIMessage:
     return response
 
 
+def output_parser(user_profile, rag_parser: str) -> AIMessage:
+    """
+    Micro Agent 3 - Output Parser
+    Make sure that the output is valid and aligned with the customer profile.
+    """
+    output_conditions = "Is the output aligned with the customer profile? return 0 if not, otherwise return 1."
+    response = use_preformance_monitor(user_profile, rag_parser, output_conditions)
+    if int(response.content[0]) == 0:
+        return rag_parser, 0
+    else:
+        return rag_parser, 1
+    
+
 
 def use_preformance_monitor(input, output, output_conditions):
     """
@@ -98,7 +111,7 @@ def use_preformance_monitor(input, output, output_conditions):
     The agent make sure that the output is valid and that the conditions are met."""
 
     system_prompt = SystemMessage(content="You are a preformance monitor agent, based on the input and the output conditions, evaluate if the output is valid."
-    "in case the output in not valid return 0, otherwise return 1.")
+    "for example if the output is valid then return only the number 1 otherwise return only the numver 0.")
     formatted_prompt = prompt_template.format(
         input=f"input: {input}, output_conditions: {output_conditions}, output: {output}",
     )

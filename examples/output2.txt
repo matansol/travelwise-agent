@@ -1,119 +1,90 @@
-Based on the provided options, here are three trip itineraries tailored to the client's preferences for quiet, intimate experiences, beautiful views, good food, spa treatments, exploration, cooking classes, and wine tasting:
+Based on your preferences for quiet and intimate experiences, beautiful views, good food, spa treatments, exploration, cooking classes, and wine tasting, I’ve created three trip options to fit your desired duration. Each option includes flights, hotel accommodations, and curated activities. Here are the details:
 
 ---
 
-### **Option 1: Philadelphia Getaway**
-- **Flight to Destination:**
-  - Airline: FlyFast  
-  - From: Houston (IAH)  
-  - To: Philadelphia (PHL)  
-  - Class: Economy  
-  - Price: $1681.44  
+### Option 1: Philadelphia Escape – 4 Days
+**Flights**  
+- **Incoming Flight**: New York (JFK) → Philadelphia (PHL)  
+  Airline: Delta Airlines | Economy Class | $150 per person  
+- **Return Flight**: Philadelphia (PHL) → New York (JFK)  
+  Airline: American Airlines | Economy Class | $140 per person  
+**Total Flight Cost (for 2 people)**: $580  
 
-- **Return Flight:**
-  - Airline: FlyFast  
-  - From: Philadelphia (PHL)  
-  - To: Houston (IAH)  
-  - Class: Economy  
-  - Price: $393.64  
+**Hotel**  
+- **Hotel Name**: HotelComfort  
+- **Room**: Penthouse  
+- **Rate**: 4.4 stars  
+- **Room Size**: 91.73 m²  
+- **Price (4 nights)**: $256.05/night → $1,024.20  
 
-- **Hotel:**
-  - Name: HotelComfort  
-  - Location: Philadelphia  
-  - Room Type: Penthouse (91.73 m²)  
-  - Rating: 4.4  
-  - Price per Night: $256.05  
-  - Total for 4 Nights: $1024.20  
+**Activities**  
+1. **Cooking Class**: Local culinary workshop focusing on Italian cuisine | $150 per person → $300  
+2. **Wine Tasting**: Exclusive wine-tasting session in a scenic vineyard | $200 per person → $400  
+3. **Spa Treatment**: 2-hour couple's massage | $250 for two  
 
-- **Activities:**
-  1. **Hiking Adventure** (Philadelphia)  
-     - Company: ThrillSeekers  
-     - Rating: 5.0  
-     - Price: $152.35  
-  2. **Cooking Class**: Arrange through a local culinary school or private chef (estimated price: $200/person, $400 total).  
-  3. **Wine Tasting & Vineyard Tour**: Visit nearby wineries (estimated price: $150/person, $300 total).  
-
-- **Total Cost:**
-  - Flights: $2075.08  
-  - Hotel: $1024.20  
-  - Activities: $852.35  
-  - **Grand Total:** **$3951.63**
+**Total Cost**: $580 (flights) + $1,024.20 (hotel) + $950 (activities) = **$2,554.20**
 
 ---
 
-### **Option 2: Phoenix Serenity Retreat**
-- **Flight to Destination:**
-  - Airline: SkyHigh  
-  - From: Houston (IAH)  
-  - To: Phoenix (PHX)  
-  - Class: Business  
-  - Price: $1584.11  
+### Option 2: Chicago Adventure – 5 Days  
+**Flights**  
+- **Incoming Flight**: New York (JFK) → Chicago (ORD)  
+  Airline: United Airlines | Economy Class | $200 per person  
+- **Return Flight**: Chicago (ORD) → New York (JFK)  
+  Airline: Southwest Airlines | Economy Class | $190 per person  
+**Total Flight Cost (for 2 people)**: $780  
 
-- **Return Flight:**
-  - Airline: SkyHigh  
-  - From: Philadelphia (PHL)  
-  - To: Houston (IAH)  
-  - Class: First Class  
-  - Price: $210.30  
+**Hotel**  
+- **Hotel Name**: HotelComfort  
+- **Room**: Deluxe  
+- **Rate**: 3.6 stars  
+- **Room Size**: 20.03 m²  
+- **Price (5 nights)**: $339.50/night → $1,697.50  
 
-- **Hotel:**
-  - Name: HotelComfort  
-  - Location: Philadelphia  
-  - Room Type: Deluxe (152.17 m²)  
-  - Rating: 4.3  
-  - Price per Night: $228.58  
-  - Total for 5 Nights: $1142.90  
+**Activities**  
+1. **Boat Cruise**: Scenic cruise along the Chicago River | $297.53 per person → $595.06  
+2. **Cooking Class**: Chicago-style deep-dish pizza-making workshop | $180 per person → $360  
+3. **Spa Treatment**: Luxurious facial and massage combo | $300 for two  
 
-- **Activities:**
-  1. **Hiking Adventure** (Phoenix)  
-     - Company: ThrillSeekers  
-     - Rating: 4.2  
-     - Price: $228.77  
-  2. **Spa Treatment**: Luxury spa experience at a local resort (estimated price: $300/person, $600 total).  
-  3. **Wine Tasting**: Visit nearby wineries in Phoenix (estimated price: $120/person, $240 total).  
-
-- **Total Cost:**
-  - Flights: $1794.41  
-  - Hotel: $1142.90  
-  - Activities: $1068.77  
-  - **Grand Total:** **$4006.08**
+**Total Cost**: $780 (flights) + $1,697.50 (hotel) + $1,255.06 (activities) = **$3,732.56**
 
 ---
 
-### **Option 3: Houston Staycation with Local Gems**
-- **Flights:** None (save on airfare by staying local in Houston).  
+### Option 3: Phoenix Getaway – 4 Days  
+**Flights**  
+- **Incoming Flight**: New York (JFK) → Phoenix (PHX)  
+  Airline: American Airlines | Economy Class | $250 per person  
+- **Return Flight**: Phoenix (PHX) → New York (JFK)  
+  Airline: Delta Airlines | Economy Class | $230 per person  
+**Total Flight Cost (for 2 people)**: $960  
 
-- **Hotel:**
-  - Name: HotelComfort  
-  - Location: Houston  
-  - Room Type: Penthouse (158.47 m²)  
-  - Rating: 3.5  
-  - Price per Night: $259.66  
-  - Total for 4 Nights: $1038.64  
+**Hotel**  
+- **Hotel Name**: FourSeasons  
+- **Room**: Deluxe  
+- **Rate**: 3.6 stars  
+- **Room Size**: 119.76 m²  
+- **Price (4 nights)**: $477.59/night → $1,910.36  
 
-- **Activities:**
-  1. **Hiking Adventure** (Houston)  
-     - Company: CityTours  
-     - Rating: 4.2  
-     - Price: $208.57  
-  2. **Cooking Class**: Arrange with a local chef or cooking school (estimated price: $150/person, $300 total).  
-  3. **Wine Tasting**: Visit a local wine bar or tasting room (estimated price: $100/person, $200 total).  
-  4. **Spa Treatment**: Book a luxurious experience at a local spa (estimated price: $250/person, $500 total).  
+**Activities**  
+1. **Boat Cruise**: Sunset cruise on a serene Arizona lake | $206.33 per person → $412.66  
+2. **Wine Tasting**: Private tasting of Arizona’s finest wines | $250 per person → $500  
+3. **Spa Treatment**: Desert-inspired body wrap and massage | $350 for two  
 
-- **Total Cost:**
-  - Flights: $0  
-  - Hotel: $1038.64  
-  - Activities: $1208.57  
-  - **Grand Total:** **$2247.21**
+**Total Cost**: $960 (flights) + $1,910.36 (hotel) + $1,262.66 (activities) = **$4,133.02**
 
 ---
 
-### **Summary of Options:**
-1. **Philadelphia Getaway:** $3951.63  
-   - Highlights: Scenic hikes, cooking class, wine tasting, luxurious penthouse stay.  
-2. **Phoenix Serenity Retreat:** $4006.08  
-   - Highlights: Spa treatments, wine tours, hiking, spacious deluxe room.  
-3. **Houston Staycation:** $2247.21  
-   - Highlights: Budget-friendly, no flights, local experiences, and elegant penthouse stay.  
+### Summary of Options
+1. **Option 1: Philadelphia** – Total: **$2,554.20**  
+   - Pros: Compact itinerary, intimate hotel, and variety of activities.  
+   - Cons: Shorter trip duration (4 days).  
 
-Let me know which option resonates most, or if you'd like me to refine any details!
+2. **Option 2: Chicago** – Total: **$3,732.56**  
+   - Pros: Longer stay (5 days), urban exploration, and unique pizza cooking class.  
+   - Cons: Smaller hotel room and higher cost.  
+
+3. **Option 3: Phoenix** – Total: **$4,133.02**  
+   - Pros: Stunning desert views, spacious hotel room, and exclusive spa experience.  
+   - Cons: Higher total cost.  
+
+Let me know which option aligns best with your preferences, or if you’d like to adjust any details!

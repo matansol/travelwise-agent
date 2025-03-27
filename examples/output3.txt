@@ -1,142 +1,86 @@
-Here are three curated 10-day trip options based on your preferences and the available flights, hotels, and activities:
+Based on your preferences and the available options, here are three trip packages tailored to your 10-day adventure:
 
 ---
 
-### **Option 1: Philadelphia Adventure**
-**Total Price:** $17,169.30 for 5 people
+### **Option 1: Los Angeles Adventure & Thrills**
+**Total Price**: $13,607.10 (Flights + Hotel + Activities for 5 people)
 
-#### Flights:
-- **Outbound:** FlyFast from Houston (IAH) to Philadelphia (PHL) - $1681.44 per person  
-- **Return:** FlyFast from Philadelphia (PHL) to Houston (IAH) - $393.64 per person  
-- **Total for flights (5 people):** $10,375.40
+#### **Flights**
+- **Outbound**: Phoenix (PHX) → Los Angeles (LAX)  
+  Airline: FlyFast | **Economy** | Company rating: 3.0  
+  Price: $2885.39 (for 5 passengers)
 
-#### Hotel:
-- **HotelComfort** in Philadelphia  
-  - Room Type: Deluxe  
-  - Room Size: 152.17 m²  
-  - Price: $228.58 per night  
-  - **Total for 10 nights (5 people):** $2,285.80
+- **Return**: Los Angeles (LAX) → Phoenix (PHX)  
+  Airline: AirwaysX | **First Class** | Company rating: 4.4  
+  Price: $872.01 (per passenger) → $4360.05 (for 5 passengers)
 
-#### Activities:
-1. **Hiking Adventure** – Philadelphia  
-   - ThrillSeekers, 5.0 star-rated  
-   - Price: $152.35 per person  
-   - **Total for 5 people:** $761.75  
+#### **Hotel**
+- Stay at **StayEasy**, Los Angeles  
+  Room: Suite | Room size: 54.77 m² | Hotel rating: 4.3  
+  Price: $418.18 per night → $4181.80 for 10 nights (1 room)
 
-2. **City Exploration & Local Culture (self-guided)**  
-   - Spend time exploring Philadelphia's historic sites and cultural landmarks like Independence Hall and the Liberty Bell (free or low cost).  
+#### **Activities**
+1. **Hiking adventure** in Los Angeles  
+   Company: CityTours | Rating: 3.7 | Price: $252.08 per person → $1260.40 (for 5 people)
 
-3. **Food Tour** – Experience Philly’s famous cheesesteaks, pretzels, and fine dining.  
-   - Estimated cost for 5 people: $500  
-
-#### Total Breakdown:
-- Flights: $10,375.40  
-- Hotel: $2,285.80  
-- Activities: $1,261.75  
-- **Grand Total:** $17,169.30  
+2. **Zip-lining & Rock Climbing Combo**  
+   Provided by a local Los Angeles operator. Customize upon request.
 
 ---
 
-### **Option 2: Balance of Adventure & Culture (Houston & Philadelphia Combo)**  
-**Total Price:** $13,270.50 for 5 people
+### **Option 2: Cultural & Outdoor Escape in Philadelphia**
+**Total Price**: $9,659.85 (Flights + Hotel + Activities for 5 people)
 
-#### Flights:
-- **Outbound:** SkyHigh from Houston (IAH) to Philadelphia (PHL) - $1453.14 per person  
-- **Return:** SkyHigh from Philadelphia (PHL) to Houston (IAH) (First Class) - $210.30 per person  
-- **Total for flights (5 people):** $8,317.20  
+#### **Flights**
+- **Outbound**: Phoenix (PHX) → Los Angeles (LAX)  
+  Airline: FlyFast | **Economy** | Company rating: 3.0  
+  Price: $2885.39 (for 5 passengers)
 
-#### Hotel:
-- **HotelComfort** in Houston for 3 nights  
-  - Room Type: Penthouse  
-  - Room Size: 158.47 m²  
-  - Price: $259.66 per night  
-  - **Total for 3 nights (5 people):** $778.98  
+- **Return**: Los Angeles (LAX) → Phoenix (PHX)  
+  Airline: FlyFast | **Economy** | Company rating: 3.6  
+  Price: $674.39 (per passenger) → $3371.95 (for 5 passengers)
 
-- **HotelComfort** in Philadelphia for 7 nights  
-  - Room Type: Penthouse  
-  - Room Size: 91.73 m²  
-  - Price: $256.05 per night  
-  - **Total for 7 nights (5 people):** $1,792.35  
+#### **Hotel**
+- Stay at **HotelComfort**, Philadelphia  
+  Room: Deluxe | Room size: 152.17 m² | Hotel rating: 4.3  
+  Price: $228.58 per night → $2285.80 for 10 nights (1 room)
 
-#### Activities:
-1. **Houston Activities**:  
-   - City Tour by ExperienceIt (2.3-star-rated)  
-     - Price: $77.48 per person  
-     - **Total for 5 people:** $387.40  
+#### **Activities**
+1. **Hiking adventure** in Philadelphia  
+   Company: ThrillSeekers | Rating: 5.0 | Price: $152.35 per person → $761.75 (for 5 people)
 
-2. **Philadelphia Activities**:  
-   - Hiking Adventure – ThrillSeekers, 5.0-star-rated  
-     - Price: $152.35 per person  
-     - **Total for 5 people:** $761.75  
-
-   - Kayaking or Rock Climbing (local providers)  
-     - Estimated cost: $500 for the group  
-
-3. **Food & Culture Exploration**  
-   - Sample local cuisines and visit cultural landmarks in both cities.  
-   - Estimated cost for 5 people: $500  
-
-#### Total Breakdown:
-- Flights: $8,317.20  
-- Hotels: $2,571.33  
-- Activities: $2,382  
-- **Grand Total:** $13,270.50  
+2. **Explore Philly's Local Food Scene**  
+   Includes a guided market tour (custom quote available).
 
 ---
 
-### **Option 3: Urban Adventure with Nature Escapes (Houston & Phoenix)**  
-**Total Price:** $14,195.50 for 5 people  
+### **Option 3: New York Vibrance & Nature**
+**Total Price**: $12,014.10 (Flights + Hotel + Activities for 5 people)
 
-#### Flights:
-- **Outbound:** FlyFast from Houston (IAH) to Philadelphia (PHL) - $1681.44 per person  
-- **Return:** FlyFast from Philadelphia (PHL) to Houston (IAH) - $393.64 per person  
-- **Total for flights (5 people):** $10,375.40  
+#### **Flights**
+- **Outbound**: Phoenix (PHX) → Los Angeles (LAX)  
+  Airline: AirwaysX | **First Class** | Company rating: 3.6  
+  Price: $2326.88 (for 5 passengers)
 
-#### Hotel:
-- **HotelComfort** in Philadelphia for 5 nights  
-  - Room Type: Deluxe  
-  - Room Size: 152.17 m²  
-  - Price: $228.58 per night  
-  - **Total for 5 nights (5 people):** $1,142.90  
+- **Return**: Los Angeles (LAX) → Phoenix (PHX)  
+  Airline: AirwaysX | **Business Class** | Company rating: 3.1  
+  Price: $1977.33 (per passenger) → $9886.65 (for 5 passengers)
 
-- **HotelComfort** in Houston for 5 nights  
-  - Room Type: Penthouse  
-  - Room Size: 158.47 m²  
-  - Price: $259.66 per night  
-  - **Total for 5 nights (5 people):** $1,298.30  
+#### **Hotel**
+- Stay at **HotelComfort**, New York  
+  Room: Single | Room size: 171.41 m² | Hotel rating: 4.9  
+  Price: $473.68 per night → $4736.80 for 10 nights (1 room)
 
-#### Activities:
-1. **Philadelphia Activities**:  
-   - Hiking Adventure – ThrillSeekers, 5.0-star-rated  
-     - Price: $152.35 per person  
-     - **Total for 5 people:** $761.75  
+#### **Activities**
+1. **Hiking adventure** in New York  
+   Company: ExperienceIt | Rating: 1.8 | Price: $37.65 per person → $188.25 (for 5 people)
 
-   - Food Tour to explore Philadelphia’s culinary scene  
-     - Estimated cost: $500 for the group  
-
-2. **Houston Activities**:  
-   - City Tour by ExperienceIt (2.3-star-rated)  
-     - Price: $77.48 per person  
-     - **Total for 5 people:** $387.40  
-
-   - Kayaking Adventure (local providers)  
-     - Estimated cost: $500 for the group  
-
-3. **Additional Cultural Exploration:**  
-   - Visit Houston’s museums and cultural landmarks.  
-   - Estimated cost for 5 people: $500  
-
-#### Total Breakdown:
-- Flights: $10,375.40  
-- Hotels: $2,441.20  
-- Activities: $1,379.75  
-- **Grand Total:** $14,195.50  
+2. **Explore NYC's Best Eateries & Culture**  
+   Includes a curated list of top restaurants and museums. Customization available.
 
 ---
 
-### **Summary**:
-- **Option 1:** Philadelphia-focused adventure with culture and food ($17,169.30)  
-- **Option 2:** Houston & Philadelphia combo with diverse activities ($13,270.50)  
-- **Option 3:** Urban adventure in Philadelphia & Houston ($14,195.50)  
-
-Let me know which one appeals most to you or if you'd like adjustments!
+### Notes:
+- Package prices do not include food or additional transportation costs. 
+- Activities like kayaking and zip-lining can be added upon request for customization.
+- Let me know which option you prefer, or if you'd like adjustments!

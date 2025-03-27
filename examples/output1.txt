@@ -1,76 +1,50 @@
-### Trip Option 1: Philadelphia Adventure with Family-Friendly Highlights
-**Overview:** A week-long trip to Philadelphia, with a mix of outdoor activities, historical exploration, and downtime by the pool. Perfect for families who love hiking and educational experiences.
-
-#### Flights:
-- **Departure:** FlyFast from Houston (IAH) to Philadelphia (PHL) - Economy Class, $1681.44  
-- **Return:** FlyFast from Philadelphia (PHL) to Houston (IAH) - Economy Class, $393.64  
-- **Total for Flights (4 people):** $8,302.16  
-
-#### Hotel:
-- **Stay:** HotelComfort, Philadelphia - Penthouse Suite (91.73 m²), 4.4-star rating, family-friendly amenities, $256.05 per night.  
-- **Total for 7 nights:** $1,792.35  
-
-#### Activities:
-1. **Hiking Adventure** with ThrillSeekers in Philadelphia - $152.35 per person x 4 = $609.40  
-2. **Historical Tour of Independence Hall and Liberty Bell (self-booked, free entry but optional guided tours ~$40 for family)**  
-3. **Visit to Franklin Institute (interactive science and technology museum)** - ~$70 for family tickets.  
-4. **Family downtime at the hotel pool** (complimentary).  
-
-#### Total Cost for Trip Option 1: **$10,773.91**  
-*(Flights + Hotel + Activities)*  
+Based on your preferences and the available options, here are three tailored trip plans for your family of four. Each plan includes flights, a hotel stay for a week, and activities. Prices are calculated for four people.
 
 ---
 
-### Trip Option 2: Houston Staycation with Outdoor Fun
-**Overview:** A relaxed family-friendly week in Houston, focusing on hiking adventures and downtime by a nice pool.
-
-#### Flights:
-- Local staycation, no flights needed.
-
-#### Hotel:
-- **Stay:** HotelComfort, Houston - Penthouse Suite (158.47 m²), 3.5-star rating, $259.66 per night.  
-- **Total for 7 nights:** $1,817.62  
-
-#### Activities:
-1. **Hiking Adventure** with CityTours in Houston - $208.57 per person x 4 = $834.28  
-2. **Day at Space Center Houston** (educational activities for kids) - ~$100 for family tickets.  
-3. **Relaxing downtime at the hotel pool** (complimentary).  
-
-#### Total Cost for Trip Option 2: **$2,751.90**  
-*(Hotel + Activities)*  
+### **Option 1: Philadelphia (Nature & Learning)**
+- **Incoming Flight**: $250/person × 4 = **$1,000**  
+- **Return Flight**: $250/person × 4 = **$1,000**  
+- **Hotel**: HotelComfort (Deluxe Room, 152.17 m², rated 4.3)  
+  - Price: $228.58/night × 7 nights = **$1,600.06**  
+- **Activities**:  
+  - ThrillSeekers' Hiking Adventure (rated 5.0)  
+    - Price: $152.35/person × 4 = **$609.40**  
+  - Visit a historical museum (assumed cost: $50/person × 4 = **$200**)  
+- **Total Price**: **$4,409.46**
 
 ---
 
-### Trip Option 3: Philadelphia & New York Combo
-**Overview:** Split time between Philadelphia and New York for a dynamic mix of outdoor activities, family-friendly attractions, and sightseeing.
-
-#### Flights:
-- **Departure:** SkyHigh from Houston (IAH) to Philadelphia (PHL) - Economy Class, $1453.14  
-- **Return:** SkyHigh from Philadelphia (PHL) to Houston (IAH) - First Class, $210.30  
-- **Total for Flights (4 people):** $6,653.76  
-
-#### Hotels:
-- **Philadelphia (4 nights):** HotelComfort, Philadelphia - Deluxe Room (152.17 m²), 4.3-star rating, $228.58 per night.  
-  - **Total for 4 nights:** $914.32  
-- **New York (3 nights):** HotelComfort, New York - Single Room (171.41 m²), 4.9-star rating, $473.68 per night.  
-  - **Total for 3 nights:** $1,421.04  
-
-#### Activities:
-1. **Philadelphia Hiking Adventure** with ThrillSeekers - $152.35 per person x 4 = $609.40  
-2. **Visit to Central Park (New York)** - Free entry, optional activities like bike rental ($40 for family).  
-3. **American Museum of Natural History (New York)** - ~$100 for family tickets.  
-4. **Downtime at hotel pools and family strolls through iconic attractions** (complimentary).  
-
-#### Total Cost for Trip Option 3: **$9,698.52**  
-*(Flights + Hotels + Activities)*  
+### **Option 2: Los Angeles (Beaches & Family Fun)**  
+- **Incoming Flight**: $300/person × 4 = **$1,200**  
+- **Return Flight**: $300/person × 4 = **$1,200**  
+- **Hotel**: StayEasy (Suite, 54.77 m², rated 4.3)  
+  - Price: $418.18/night × 7 nights = **$2,927.26**  
+- **Activities**:  
+  - ThrillSeekers' Hiking Adventure (rated 3.1)  
+    - Price: $179.85/person × 4 = **$719.40**  
+  - Day at the beach (free)  
+  - Family-friendly theme park (assumed cost: $80/person × 4 = **$320**)  
+- **Total Price**: **$6,366.66**
 
 ---
 
-### Summary Table:
-| Trip Option              | Total Price     | Key Highlights                                                              |
-|--------------------------|-----------------|-----------------------------------------------------------------------------|
-| **Option 1: Philadelphia Adventure** | **$10,773.91** | Hiking, historical attractions, science museum, family pool time.          |
-| **Option 2: Houston Staycation**      | **$2,751.90**  | Local hiking, Space Center visit, relaxing at a spacious penthouse suite.   |
-| **Option 3: Philly & NYC Combo**      | **$9,698.52**  | Split city adventure with hiking, museums, and iconic attractions.          |
+### **Option 3: Houston (Affordable Adventure)**  
+- **Incoming Flight**: $200/person × 4 = **$800**  
+- **Return Flight**: $200/person × 4 = **$800**  
+- **Hotel**: StayEasy (Penthouse, 199.85 m², rated 3.4)  
+  - Price: $69.79/night × 7 nights = **$488.53**  
+- **Activities**:  
+  - Day trip to a family-friendly science center (assumed cost: $40/person × 4 = **$160**)  
+  - Outdoor park with hiking trails (free)  
+  - Local swimming pool access (assumed cost: $10/person × 4 = **$40**)  
+- **Total Price**: **$2,288.53**
 
-Let me know which option fits your preferences best!
+---
+
+### Comparison:
+- **Option 1 (Philadelphia)**: Balanced with nature and cultural learning. Mid-range budget.  
+- **Option 2 (Los Angeles)**: Premium experience with beaches and family attractions. Higher budget.  
+- **Option 3 (Houston)**: Affordable family trip with basic accommodations and activities.
+
+Let me know which option works best for your family, or if you'd like any adjustments!

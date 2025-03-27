@@ -75,9 +75,14 @@ def get_trip_options(user_input: str) -> str:
     customer_profile = parse_user_input(user_input)
 
     # Micro Agent 2 - Agentic RAG Response
-    response = rag_response(customer_profile.content)
+    rag_output = rag_response(customer_profile.content)
 
-    return response
+    # Micro Agent 3 - Output Parser
+    result, valid_result = output_parser(customer_profile, rag_output)
+    if not valid_result:
+        print("------------------I know the options are not the best but this is the best I could find. ---------------------")
+        
+    return result
 
 
 def run_examples():
@@ -93,11 +98,12 @@ def run_examples():
         print(f"User Input from {input_file}: {user_input}")
         # Process input and get trip options
         trip_options = get_trip_options(user_input)
+        print(trip_options)
 
         # Create the corresponding output file
         output_file = input_file.replace("input", "output")  # e.g., input1.txt → output1.txt
         output_path = os.path.join(examples_folder, output_file)
-        with open(output_path, "w") as file:
+        with open(output_path, "w", encoding='utf-8') as file:
             file.write(str(trip_options))
         print(f"Trip options saved to {output_file}")
         print("\n" + "=" * 50 + "\n")
