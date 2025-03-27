@@ -5,7 +5,7 @@ def run_main():
     """
     Run the TravelWise Agent pipeline to interactively get trip options based on user input.
     """
-    # run_examples()
+    run_examples()
     run_pipeline()
 
 
